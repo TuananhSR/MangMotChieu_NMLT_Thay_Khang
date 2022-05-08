@@ -1,4 +1,0 @@
-﻿  Bai167.cpp
-D:\UIT\Nhap Mon Lap Trinh_ Thay Khang\MangMotChieu\Bai167\Bai167.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\UIT\Nhap Mon Lap Trinh_ Thay Khang\MangMotChieu\Bai167\Bai167.cpp(31,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Bai167.vcxproj -> D:\UIT\Nhap Mon Lap Trinh_ Thay Khang\MangMotChieu\x64\Debug\Bai167.exe

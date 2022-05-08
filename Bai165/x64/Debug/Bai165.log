@@ -1,0 +1,7 @@
+﻿  Bai165.cpp
+D:\UIT\Nhap Mon Lap Trinh_ Thay Khang\MangMotChieu\Bai165\Bai165.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\UIT\Nhap Mon Lap Trinh_ Thay Khang\MangMotChieu\Bai165\Bai165.cpp(33,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UIT\Nhap Mon Lap Trinh_ Thay Khang\MangMotChieu\Bai165\Bai165.cpp(51,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\UIT\Nhap Mon Lap Trinh_ Thay Khang\MangMotChieu\Bai165\Bai165.cpp(54,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\UIT\Nhap Mon Lap Trinh_ Thay Khang\MangMotChieu\Bai165\Bai165.cpp(55,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Bai165.vcxproj -> D:\UIT\Nhap Mon Lap Trinh_ Thay Khang\MangMotChieu\x64\Debug\Bai165.exe
